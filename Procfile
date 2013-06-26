@@ -1,1 +1,1 @@
-web: gunicorn rainforest.wsgi
+web: python rainforest/manage.py runserver
