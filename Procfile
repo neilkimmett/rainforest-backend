@@ -1,1 +1,1 @@
-web: python rainforest/manage.py runserver
+web: python rainforest/manage.py run_gunicorn
